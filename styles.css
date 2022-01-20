@@ -1,0 +1,17 @@
+div {
+  width: 100%;
+  text-align:center;
+}
+
+canvas {
+  background-color: #EEE;
+  margin-top: 40%;
+}
+
+/* MEDIA-QUERIES */
+
+@media only screen and (min-width: 768px) {
+  canvas {
+    margin-top: 2%;
+  }
+}
